@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273748852469",
+    "project_id": "verbaly-app",
+    "storage_bucket": "verbaly-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273748852469:android:33ff53f1acca523c7d0fbc",
+        "android_client_info": {
+          "package_name": "Verbaly_2025.Project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIg1k1SSjXrnsiNCIJuDb-MhKJpsjobz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "verbaly-app",
+  "version": "1.0.0",
+  "description": "Verbaly - Registrazione Assemblea (Desktop App)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-packager . Verbaly --platform=win32,linux,darwin --arch=x64 --out=dist --overwrite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^36.3.2",
+    "electron-packager": "^17.1.2"
+  },
+  "dependencies": {
+    "@capacitor/cli": "^7.2.0",
+    "@capacitor/core": "^7.2.0",
+    "firebase": "^11.8.1"
+  }
+}
